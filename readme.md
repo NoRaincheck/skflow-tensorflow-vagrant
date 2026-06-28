@@ -3,7 +3,7 @@ No longer needed as skflow is now part of tensorflow
 Readme
 ======
 
-*  Author: Chapman Siu <chapm0n.siu@gmail.com>  
+Archived
 
 ## About
 
